@@ -1,0 +1,8 @@
+{
+  "name": "AquaPure Indigenous",
+  "description": "AI-powered indigenous adsorbent research, arsenic and fluoride water purification testing, and laboratory data platform for IIT Ropar PI-RAHI IGNITE 2.0.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
